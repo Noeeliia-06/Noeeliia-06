@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Noelia 👋
 
-<!--
-**Noeeliia-06/Noeeliia-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Sistemas Microinformáticos y Redes (SMR)
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy una estudiante apasionada por la informática y el desarrollo web. Actualmente estoy cursando mi Grado Medio y ampliando mis conocimientos en programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Lenguajes y Herramientas
+
+**Manejo habitualmente:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</p>
+
+**Aprendiendo actualmente:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pseudocódigo-000000?style=flat&logo=codepen&logoColor=white" />
+</p>
+
+---
+
+###  Sobre mí
+
+-  **Estudios:** Cursando Grado Medio de SMR.
+-  **Objetivo:** Busco oportunidades laborales para fines de semana o festivos para compaginar con mis estudios.
+-  **Hobbies:** Fan de los videojuegos.
+-  **Meta actual:** Mejorar mi lógica de programación con Java.
+
+---
+
+###  Contacto
+
+Puedes encontrarme en mi Instagram (tienes el enlace en mi perfil) o contactarme por aquí.
