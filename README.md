@@ -73,6 +73,8 @@ Me interesa especialmente aprender sobre:
 # 📜 Certificaciones
 
 - **Cybersecurity Fundamentals — IBM SkillsBuild (2026)**
+- **Microsoft Azure IA Esencial: Introducción a Workloads y Machine Learning en Azure**
+- **Acceso a Redes — Cisco CCNA**
 
 ---
 
