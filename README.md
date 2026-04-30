@@ -1,9 +1,9 @@
 # ¡Hola! Soy Noelia 👋
 
-### 💻 Estudiante de Sistemas Microinformáticos y Redes (SMR)
+### 💻 Técnica en Sistemas Microinformáticos y Redes (SMR)
 
 ¡Bienvenido a mi perfil de GitHub!  
-Actualmente estoy terminando el Grado Medio de Sistemas Microinformáticos y Redes y mi objetivo es continuar con el **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**.
+He finalizado el Grado Medio de Sistemas Microinformáticos y Redes y mi próximo objetivo es comenzar el **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**.
 
 Me interesa especialmente el mundo de la **infraestructura, servidores y ciberseguridad**, y me gusta entender qué ocurre detrás de cada servicio web o sistema.
 
@@ -32,7 +32,7 @@ Me interesa especialmente el mundo de la **infraestructura, servidores y ciberse
 
 # 🌐 Experiencia en prácticas
 
-Actualmente estoy realizando prácticas donde estoy trabajando con **infraestructura web y administración de sistemas**.
+He realizado prácticas donde he trabajado con **infraestructura web y administración de sistemas**.
 
 Durante mis prácticas he trabajado con:
 
@@ -48,13 +48,13 @@ Durante mis prácticas he trabajado con:
   - acceso a sistemas **Linux**
   - administración de archivos mediante **SFTP**
 
-También estoy aprendiendo a analizar el funcionamiento interno de **WordPress**, incluyendo:
+También he aprendido a analizar el funcionamiento interno de **WordPress**, incluyendo:
 
 - gestión de usuarios y roles
 - estructura interna del sistema
 - interacción con la **base de datos**
 - instalación y análisis de **plugins**
-- **depuración de errores y análisis de logs**
+- depuración de errores y análisis de logs
 
 ---
 
